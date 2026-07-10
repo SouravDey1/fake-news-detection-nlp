@@ -157,8 +157,6 @@ jupyter notebook project_natural_language_processing.ipynb
 fake-news-detection-nlp/
 │
 ├── project_natural_language_processing.ipynb   # Full notebook
-├── Fake.csv                                    # Fake news articles (add manually)
-├── True.csv                                    # Real news articles (add manually)
 └── README.md                                   # This file
 ```
 
